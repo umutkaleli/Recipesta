@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542531339248",
+    "project_id": "receipesta",
+    "storage_bucket": "receipesta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542531339248:android:77387c0048e5632bad1335",
+        "android_client_info": {
+          "package_name": "com.example.receipesta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vTyabUUkfp7Yiy9XV1ovAOJwdQHnuRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542531339248:android:78cfa44339978727ad1335",
+        "android_client_info": {
+          "package_name": "com.receipesta.receipefinderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vTyabUUkfp7Yiy9XV1ovAOJwdQHnuRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
